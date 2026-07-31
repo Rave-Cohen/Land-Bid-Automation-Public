@@ -13,7 +13,8 @@ Runs locally or on a daily GitHub Actions schedule.
 
 ## Example output
 
-![Daily land tenders email summary](docs/email-summary-example.png)
+<img width="1172" height="625" alt="image" src="https://github.com/user-attachments/assets/33e38dd8-79fd-488e-ba24-2fbe749a1703" />
+
 
 ## Setup
 
